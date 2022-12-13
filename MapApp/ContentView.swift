@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  MapApp
-//
-//  Created by Louis REY on 13/12/2022.
-//
+
 
 import SwiftUI
 
